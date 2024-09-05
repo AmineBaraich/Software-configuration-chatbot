@@ -4,9 +4,8 @@ This project is an AI-powered chatbot built using **Flask** that allows users to
 
 ## Features
 
-- [Natural Language Processing (NLP) using Hugging Face Transformers](docs/nlp-model.md)
-- [Financial scenario simulations using Monte Carlo methods](docs/monte-carlo.md)
-- [In-memory processing (No database required)](docs/no-database.md)
-- [Easily extendable with more advanced AI models or simulation techniques](docs/advanced-simulation.md)
-
+- [Natural Language Processing (NLP) using Hugging Face Transformers](https://github.com/tensorflow/models/blob/master/official/nlp/docs/pretrained_models.md)
+- [Financial Scenario Simulations using Monte Carlo Methods](https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e)
+- No Database Required Results are processed in-memory.
+- Easily Extendable with More Advanced AI Models or simulation techniques.
 
